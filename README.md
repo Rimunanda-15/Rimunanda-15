@@ -4,6 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/trio r indonesia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="trio r indonesia" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rimunanda-maarif-parinduri/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="Rimunand Ma'arif Parinduri" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
