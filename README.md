@@ -1,252 +1,176 @@
-<h1 align="center">Hi 👋, I'm Rimunanda Ma'arif Parinduri</h1>
+<div align="center">
 
-<h3 align="center">
-IT Application Developer | Software Engineer | Full-Stack Developer
-</h3>
+# 🌴 Hi, I'm Rimunanda Ma'arif Parinduri
 
-<p align="center">
+### 💻 IT Application Developer
+
+**Enterprise Applications • ERP • Full-Stack Development • Plantation Technology**
+
+<p>
+  <img src="https://img.shields.io/badge/IT%20Application%20Developer-2E7D32?style=for-the-badge&logo=computer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ERP-388E3C?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plantation%20Technology-558B2F?style=for-the-badge&logo=leaflet&logoColor=white"/>
+</p>
+
+<p>
   <a href="https://www.linkedin.com/in/rimunanda-maarif-parinduri/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/rimunanda-15">
-    <img src="https://img.shields.io/badge/GitHub-rimunanda--15-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
+</div>
+
 ---
 
-## 👨‍💻 About Me
+## 🌴 About Me
 
-I'm an **IT Application Developer** with a strong interest in software engineering, enterprise applications, and full-stack development.
+I'm an **IT Application Developer** focused on building and maintaining **enterprise applications and ERP systems** that support real-world business operations.
 
-I work on designing, developing, maintaining, and improving business applications that support real-world operational processes.
+My development experience combines **software engineering with plantation business processes**, covering operational, financial, and administrative workflows.
 
-My experience covers:
+```text
+                    🌴 PLANTATION TECHNOLOGY
+                             │
+             ┌───────────────┼───────────────┐
+             │               │               │
+          🌱 ESTATE         🏭 MILL       🏢 CORPORATE
+             │               │               │
+             └───────────────┼───────────────┘
+                             │
+                          💻 ERP
+                             │
+        ┌────────────┬───────┼───────┬────────────┐
+        │            │       │       │            │
+      Finance     HRMS    Procurement Inventory   Trading
+```
 
-* Enterprise Application Development
-* ERP Systems
-* Full-Stack Web Development
-* Backend & REST API Development
-* Database Design & SQL
+I enjoy turning complex business requirements into **simple, reliable, and maintainable software solutions**.
+
+---
+
+## 💼 What I Do
+
+### 🏢 Enterprise Application Development
+
+Developing and maintaining business applications that support multiple operational processes.
+
+* ERP Application Development
 * Business Process Automation
+* Application Maintenance
 * System Integration
-* Application Deployment
-* Linux Server & Infrastructure
+* Workflow Development
+* Reporting & Data Processing
+* Document Generation
 
-I enjoy turning business requirements into **reliable, maintainable, and practical software solutions**.
+### 🌴 Plantation & ERP Systems
 
----
+Working with application processes related to:
 
-## 🧑‍💼 Professional Focus
-
-### IT Application Development
-
-My work focuses on developing and maintaining business applications across different operational areas, including:
-
-* Finance & Accounting
-* Procurement
-* Inventory
-* Human Resources
-* Estate Management
-* Mill Operations
-* Trading
-* Sales & Purchasing
-* Payment Processing
-* Approval Workflows
-* Reporting Systems
-* Document Management
+* 🌱 Estate Management
+* 🏭 Mill Operations
+* 💰 Finance & Accounting
+* 📦 Procurement
+* 📋 Inventory
+* 👥 Human Resources
+* 🚛 Trading
+* 💳 Payment & Settlement
+* 📊 Reporting
+* ✅ Approval Workflow
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Technology Stack
 
-### 💻 Programming Languages
+## 💻 Core Development
 
 <p align="left">
-<a href="https://www.java.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-</a>
+<img src="https://skillicons.dev/icons?i=java,spring,php,codeigniter,js,ts,angular,nodejs,express" />
+</p>
 
-<a href="https://www.php.net/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
-</a>
+## 🗄️ Database
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-</a>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
 
-<a href="https://www.typescriptlang.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
-</a>
+## 📱 Mobile & Application Development
 
-<a href="https://kotlinlang.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="45" height="45" alt="Kotlin"/>
-</a>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=android,kotlin,flutter" />
+</p>
 
-<a href="https://www.python.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-</a>
+## 🐳 DevOps & Infrastructure
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,apache" />
+</p>
+
+## 🎮 Other Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=unity,unreal" />
 </p>
 
 ---
 
-### 🌐 Frontend
+# 🌱 Plantation Technology
 
-<p align="left">
-<a href="https://angular.dev/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="45" height="45" alt="Angular"/>
-</a>
+One of my main areas of interest is the intersection between **software engineering and plantation operations**.
 
-<a href="https://tailwindcss.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
-</a>
+```text
+🌴 Plantation
+│
+├── 🌱 Estate
+│   ├── Field Operations
+│   ├── Harvesting
+│   └── Production Monitoring
+│
+├── 🏭 Mill
+│   ├── Production
+│   ├── Weighbridge
+│   └── Mill Operations
+│
+├── 📦 Supply Chain
+│   ├── Procurement
+│   ├── Inventory
+│   └── Receiving
+│
+├── 🚛 Trading
+│   ├── Contract
+│   ├── Purchase Order
+│   ├── Invoice
+│   └── Settlement
+│
+└── 💰 Corporate
+    ├── Finance
+    ├── Accounting
+    ├── HR
+    └── Reporting
+```
 
-<a href="https://getbootstrap.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-</a>
-</p>
-
----
-
-### ⚙️ Backend & Frameworks
-
-<p align="left">
-<a href="https://spring.io/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45" alt="Spring"/>
-</a>
-
-<a href="https://codeigniter.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" width="45" height="45" alt="CodeIgniter"/>
-</a>
-
-<a href="https://nodejs.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
-</a>
-
-<a href="https://expressjs.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45" alt="Express.js"/>
-</a>
-</p>
+My goal is to build software that helps transform operational processes into **integrated, measurable, and data-driven systems**.
 
 ---
 
-### 🗄️ Database
+# 🚀 Development Focus
 
-<p align="left">
-<a href="https://www.mysql.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
-</a>
-
-<a href="https://www.postgresql.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
-</a>
-
-<a href="https://www.mongodb.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
-</a>
-
-<a href="https://www.microsoft.com/en-us/sql-server">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="SQL Server"/>
-</a>
-</p>
+| Area                       | Focus                              |
+| -------------------------- | ---------------------------------- |
+| 💻 Application Development | Enterprise & Business Applications |
+| 🏢 ERP                     | Integrated Business Processes      |
+| ⚙️ Backend                 | REST API & Business Logic          |
+| 🌐 Frontend                | Angular & Web Applications         |
+| 🗄️ Database               | SQL, Data Modeling & Reporting     |
+| 🔄 Integration             | APIs & System Integration          |
+| 🐳 DevOps                  | Docker, Linux & Deployment         |
+| 🌴 Plantation              | Estate, Mill & Trading Systems     |
 
 ---
 
-### 📱 Mobile Development
-
-<p align="left">
-<a href="https://developer.android.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="45" height="45" alt="Android"/>
-</a>
-
-<a href="https://kotlinlang.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="45" height="45" alt="Kotlin"/>
-</a>
-
-<a href="https://flutter.dev/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45" height="45" alt="Flutter"/>
-</a>
-</p>
-
----
-
-### 🎮 Game Development
-
-<p align="left">
-<a href="https://unity.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="45" height="45" alt="Unity"/>
-</a>
-
-<a href="https://www.unrealengine.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" width="45" height="45" alt="Unreal Engine"/>
-</a>
-</p>
-
----
-
-### 🐳 DevOps & Infrastructure
-
-<p align="left">
-<a href="https://www.docker.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
-</a>
-
-<a href="https://git-scm.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-</a>
-
-<a href="https://github.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-</a>
-
-<a href="https://www.linux.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
-</a>
-
-<a href="https://httpd.apache.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="45" height="45" alt="Apache"/>
-</a>
-</p>
-
----
-
-## 🚀 What I Build
-
-### 🏢 Enterprise Applications
-
-Developing applications designed around real business processes, with a focus on reliability, maintainability, and usability.
-
-### 🔗 REST APIs & Backend Services
-
-Building APIs and backend services that handle business logic, database operations, authentication, validation, and system integrations.
-
-### 🖥️ Web Applications
-
-Developing responsive web applications using component-based frontend frameworks and API-driven architectures.
-
-### 📊 Database & Reporting
-
-Working with relational databases, complex SQL queries, transactions, reporting systems, and data processing.
-
-### 🔄 Business Process Automation
-
-Turning manual business processes into structured digital workflows involving approvals, transactions, notifications, and document management.
-
-### 🚀 Deployment & Infrastructure
-
-Working with Linux servers, Apache, Docker, Git, CI/CD, and application deployment.
-
----
-
-## 📚 Education
+# 📚 Education
 
 🎓 **Telkom University**
 
@@ -254,40 +178,50 @@ Working with Linux servers, Apache, Docker, Git, CI/CD, and application deployme
 
 ---
 
-## 🌱 Currently Exploring
+# 🌱 Currently Exploring
 
-* Software Architecture
-* System Design
-* Spring Boot
-* Microservices
-* Cloud Computing
-* DevOps
-* Distributed Systems
-* GIS & Spatial Data
-* Enterprise Application Architecture
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rimunanda-15&show_icons=true&theme=transparent&hide_border=true" alt="Rimunanda GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimunanda-15&layout=compact&theme=transparent&hide_border=true&langs_count=10" alt="Top Languages"/>
-</p>
+* 🏗️ Software Architecture
+* ☕ Spring Boot
+* 🔗 Microservices
+* 🐳 Docker & DevOps
+* ☁️ Cloud Computing
+* 🧩 System Design
+* 🗺️ GIS & Spatial Data
+* 🌴 Plantation Technology
+* 🏢 Enterprise Application Architecture
 
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Analytics
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rimunanda-maarif-parinduri/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rimunanda%20Ma'arif%20Parinduri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rimunanda-15&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimunanda-15&layout=compact&hide_border=true&theme=transparent&langs_count=8"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌴 Building Technology for Real-World Operations
+
+**IT Application Developer • Software Engineer • ERP Developer**
+
+<p>
+  <i>Turning business processes into software.</i>
 </p>
 
-<p align="center">
-  <i>Building software to solve real-world problems.</i>
-</p>
+</div>
