@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rimunanda Ma'arif Parinduri</h1>
 
 <h3 align="center">
-Software Engineer | Full-Stack Developer | ERP Application Developer
+IT Application Developer | Software Engineer | Full-Stack Developer
 </h3>
 
 <p align="center">
@@ -17,25 +17,35 @@ Software Engineer | Full-Stack Developer | ERP Application Developer
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer and Software Engineering student at Telkom University** with a strong interest in building reliable, scalable, and business-oriented software solutions.
+I'm an **IT Application Developer** with a strong interest in software engineering, enterprise applications, and full-stack development.
 
-I have experience in **full-stack web development, enterprise applications, ERP systems, REST APIs, database development, system integration, and application deployment**.
+I work on designing, developing, maintaining, and improving business applications that support real-world operational processes.
 
-My development experience covers both **backend and frontend engineering**, from designing business logic and database structures to developing user interfaces and deploying applications to Linux servers.
+My experience covers:
 
-I enjoy transforming complex business requirements into **practical, maintainable, and efficient software systems**.
+* Enterprise Application Development
+* ERP Systems
+* Full-Stack Web Development
+* Backend & REST API Development
+* Database Design & SQL
+* Business Process Automation
+* System Integration
+* Application Deployment
+* Linux Server & Infrastructure
+
+I enjoy turning business requirements into **reliable, maintainable, and practical software solutions**.
 
 ---
 
-## 💼 Professional Experience & Focus
+## 🧑‍💼 Professional Focus
 
-### 🏢 Enterprise & ERP Development
+### IT Application Development
 
-Experienced in developing and maintaining enterprise applications supporting multiple business processes, including:
+My work focuses on developing and maintaining business applications across different operational areas, including:
 
 * Finance & Accounting
 * Procurement
-* Inventory Management
+* Inventory
 * Human Resources
 * Estate Management
 * Mill Operations
@@ -44,29 +54,13 @@ Experienced in developing and maintaining enterprise applications supporting mul
 * Payment Processing
 * Approval Workflows
 * Reporting Systems
-* Document & Contract Management
-
-### ⚙️ Software Engineering
-
-My development focus includes:
-
-* Full-Stack Web Development
-* Backend Development
-* REST API Development
-* Database Engineering
-* Business Logic Implementation
-* Enterprise Application Development
-* System Integration
-* Workflow Automation
-* Document Generation
-* Application Deployment
-* Server & Infrastructure Management
+* Document Management
 
 ---
 
-# 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-## 💻 Programming Languages
+### 💻 Programming Languages
 
 <p align="left">
 <a href="https://www.java.com/">
@@ -77,7 +71,7 @@ My development focus includes:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
 </a>
 
-<a href="https://www.javascript.com/">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
 </a>
 
@@ -96,7 +90,7 @@ My development focus includes:
 
 ---
 
-## 🌐 Frontend Development
+### 🌐 Frontend
 
 <p align="left">
 <a href="https://angular.dev/">
@@ -118,19 +112,15 @@ My development focus includes:
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
 </a>
-
-<a href="https://getbootstrap.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/>
-</a>
 </p>
 
 ---
 
-## ⚙️ Backend & Frameworks
+### ⚙️ Backend & Frameworks
 
 <p align="left">
 <a href="https://spring.io/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45" alt="Spring"/>
 </a>
 
 <a href="https://codeigniter.com/">
@@ -148,7 +138,7 @@ My development focus includes:
 
 ---
 
-## 🗄️ Database
+### 🗄️ Database
 
 <p align="left">
 <a href="https://www.mysql.com/">
@@ -170,7 +160,7 @@ My development focus includes:
 
 ---
 
-## 📱 Mobile Development
+### 📱 Mobile Development
 
 <p align="left">
 <a href="https://developer.android.com/">
@@ -188,9 +178,7 @@ My development focus includes:
 
 ---
 
-## 🎮 Game Development
-
-I also have experience learning and exploring game development technologies.
+### 🎮 Game Development
 
 <p align="left">
 <a href="https://unity.com/">
@@ -204,7 +192,7 @@ I also have experience learning and exploring game development technologies.
 
 ---
 
-## 🐳 DevOps, Server & Infrastructure
+### 🐳 DevOps & Infrastructure
 
 <p align="left">
 <a href="https://www.docker.com/">
@@ -230,107 +218,60 @@ I also have experience learning and exploring game development technologies.
 
 ---
 
-## 🎨 Design & Development Tools
+## 🚀 What I Build
 
-<p align="left">
-<a href="https://www.figma.com/">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45" alt="Figma"/>
-</a>
+### 🏢 Enterprise Applications
 
-<a href="https://www.adobe.com/products/photoshop.html">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="45" height="45" alt="Photoshop"/>
-</a>
+Developing applications designed around real business processes, with a focus on reliability, maintainability, and usability.
 
-<a href="https://www.adobe.com/products/illustrator.html">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" width="45" height="45" alt="Illustrator"/>
-</a>
-</p>
+### 🔗 REST APIs & Backend Services
 
----
+Building APIs and backend services that handle business logic, database operations, authentication, validation, and system integrations.
 
-# 🚀 Featured Areas
+### 🖥️ Web Applications
 
-### Enterprise Resource Planning
+Developing responsive web applications using component-based frontend frameworks and API-driven architectures.
 
-Building and maintaining ERP applications that support complex operational and financial workflows.
+### 📊 Database & Reporting
 
-```text
-ERP
-├── Finance & Accounting
-├── Procurement
-├── Inventory
-├── Human Resources
-├── Estate
-├── Mill
-├── Trading
-├── Sales
-└── Approval & Payment Workflow
-```
+Working with relational databases, complex SQL queries, transactions, reporting systems, and data processing.
 
-### Backend Engineering
+### 🔄 Business Process Automation
 
-* RESTful API development
-* Business logic
-* Authentication & authorization
-* Database integration
-* Transaction processing
-* Data validation
-* Reporting APIs
-* File & document processing
+Turning manual business processes into structured digital workflows involving approvals, transactions, notifications, and document management.
 
-### Frontend Engineering
+### 🚀 Deployment & Infrastructure
 
-* Angular application development
-* Component-based architecture
-* Reactive forms
-* API integration
-* Data tables
-* Dashboard development
-* Responsive UI
-* Business workflow interfaces
-
-### Database Engineering
-
-* Relational database design
-* SQL query optimization
-* Stored procedures
-* Transaction management
-* Reporting queries
-* Data migration
-* Database integration
-
-### Infrastructure
-
-* Linux server administration
-* Apache configuration
-* Docker
-* Application deployment
-* Git & GitHub
-* CI/CD
-* Server troubleshooting
+Working with Linux servers, Apache, Docker, Git, CI/CD, and application deployment.
 
 ---
 
-# 📚 Currently Learning
+## 📚 Education
 
-I'm continuously improving my software engineering skills in:
+🎓 **Telkom University**
 
-* 🏗️ Software Architecture
-* ☕ Spring Boot & Java
-* 🔗 Microservices
-* 🐳 Docker & DevOps
-* ☁️ Cloud Computing
-* 🧩 System Design
-* 🗺️ GIS & Spatial Data
-* 🔄 Distributed Systems
-* 🏢 Enterprise Application Architecture
+**Software Engineering**
 
 ---
 
-# 📈 GitHub Statistics
+## 🌱 Currently Exploring
+
+* Software Architecture
+* System Design
+* Spring Boot
+* Microservices
+* Cloud Computing
+* DevOps
+* Distributed Systems
+* GIS & Spatial Data
+* Enterprise Application Architecture
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rimunanda-15&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Rimunanda GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rimunanda-15&show_icons=true&theme=transparent&hide_border=true" alt="Rimunanda GitHub Stats"/>
 </p>
 
 <p align="center">
@@ -339,40 +280,14 @@ I'm continuously improving my software engineering skills in:
 
 ---
 
-# 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rimunanda-15&theme=transparent&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-# 🎯 Career Interests
-
-I'm interested in opportunities related to:
-
-* Software Engineering
-* Full-Stack Development
-* Backend Engineering
-* Enterprise Application Development
-* ERP Development
-* System Integration
-* Software Architecture
-* DevOps & Cloud Engineering
-
----
-
-# 📫 Let's Connect
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rimunanda-maarif-parinduri/">
     <img src="https://img.shields.io/badge/LinkedIn-Rimunanda%20Ma'arif%20Parinduri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/rimunanda-15">
-    <img src="https://img.shields.io/badge/GitHub-rimunanda--15-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
 
 <p align="center">
-  <i>Building software to solve real-world business problems.</i>
+  <i>Building software to solve real-world problems.</i>
 </p>
