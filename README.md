@@ -30,7 +30,7 @@
 
 <br>
 
-<i>Inna ma'al usri yusra</i>
+<!-- <i>Inna ma'al usri yusra</i> -->
 
 </div>
 
